@@ -4,6 +4,8 @@ You can monitor target wallet and copy trade automatically using this bot.
 
 # 💬Contact Me
 
+[AnotherRusty](https://t.me/idioRusty)
+
 ## .env config
 
 PRIVATE_KEY = # Your wallet private key
